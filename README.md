@@ -1,6 +1,6 @@
 
 <img src="https://github.com/SteveSplash934/YouDown/img/main.jpg" alt="YouDown " />
-<img src="https://github.com/SteveSplash934/YouDown/img/1.png" alt="YouDown Screenshot 1" />
+<img src="" alt="YouDown Screenshot 1" />
 <img src="https://github.com/SteveSplash934/YouDown/img/2.png" alt="YouDown Screenshot 2" />
 
 <strong>YouDown v2</strong>
@@ -30,11 +30,11 @@
 <h2>Tool Installation</h2>
 <p>Make sure you already have python3 and git installed!</p>
 <code>
-  <pre>
+
     git clone https://github.com/SteveSplash934/YouDown.git 
     cd YouDown && python3 -m pip install -r requirements.txt 
     ./main.py
-  </pre>
+
 </code>
 
 <h2>Bugs</h2>
