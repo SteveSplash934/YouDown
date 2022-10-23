@@ -1,7 +1,7 @@
 
 <img src="https://github.com/SteveSplash934/YouDown/blob/4737e0f7e611ab1e17f7259f3d126a22dcabf228/img/main.jpg" alt="YouDown " />
 <img src="https://github.com/SteveSplash934/YouDown/blob/4737e0f7e611ab1e17f7259f3d126a22dcabf228/img/1.png" alt="YouDown Screenshot 1" />
-<img src="https://github.com/SteveSplash934/YouDown/img/2.png" alt="YouDown Screenshot 2" />
+<img src="https://github.com/SteveSplash934/YouDown/blob/4737e0f7e611ab1e17f7259f3d126a22dcabf228/img/2.png" alt="YouDown Screenshot 2" />
 
 <strong>YouDown v2</strong>
 <h2>Author</h2>
