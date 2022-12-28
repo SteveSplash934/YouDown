@@ -11,15 +11,17 @@
 <p>This is a simple YouTube downloader script for downloading YouTube videos/playlists</p>
 
 <h2>v2 Features: </h2>
-<p>Comment out links, i.e links starting with # will be skipped</p>
-<p>New Banner Animation</p>
-<p>Support all platforms running python, including Termux.</p>
+<ul>
+<li>Comment out links, i.e links starting with # will be skipped</li>
+<li>New Banner Animation</li>
+<li>Support all platforms running python, including Termux.</li>
+</ul>
 
-
-<h2>Tool Requirements</h2>
+<h2>Requirements:</h2>
 <ul>
   <li>git</li>
   <li>python3</li>
+<p>Python3 needed libraries </p>
   <ul>
     <li>pytube</li>
     <li>colorama</li>
@@ -27,19 +29,19 @@
   </ul>
 </ul>
 
-<h2>Tool Installation</h2>
+<h2>Installation</h2>
 <p>Make sure you already have python3 and git installed!</p>
 <p> Or install it using </p>
 <code>
-pkg install python3
+ pkg install python3
 </code>
 <code>
 
     git clone https://github.com/SteveSplash934/YouDown.git 
-    cd YouDown && python3 -m pip install -r requirements.txt &&
-    ./main.py
-
+    cd YouDown && python3 -m pip install -r requirements.txt
 </code>
+<br/>Then run:
+<code>./main.py</code>
 
 <h2>Bugs</h2>
 <p>None, and if any contact me</p>
