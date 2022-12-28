@@ -21,7 +21,7 @@
 <ul>
   <li>git</li>
   <li>python3</li>
-<p>Python3 needed libraries </p>
+<p>Python3 libraries will be needed</p>
   <ul>
     <li>pytube</li>
     <li>colorama</li>
@@ -32,6 +32,7 @@
 <h2>Installation</h2>
 <p>Make sure you already have python3 and git installed!</p>
 <p> Or install it using </p>
+<br/>
 <code>
  pkg install python3
 </code>
@@ -40,11 +41,11 @@
     git clone https://github.com/SteveSplash934/YouDown.git 
     cd YouDown && python3 -m pip install -r requirements.txt
 </code>
-<br/>Then run:
+Then run:<br/>
 <code>./main.py</code>
 
 <h2>Bugs</h2>
-<p>None, and if any contact me</p>
+<p>None, and if any, contact me</p>
 
 <h2>Upcoming Features</h2>
 <ul>
